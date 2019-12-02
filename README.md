@@ -1,2 +1,2 @@
-# ethereum
+# Ethereum
 Testing Smart Contracts
